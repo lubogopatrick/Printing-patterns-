@@ -1,3 +1,8 @@
+Pattern Programs in C
+Printing patterns using C programs has always been an interesting problem domain. We can print different patterns like star patterns, pyramid patterns, Floyd’s triangle, Pascal’s triangle, etc. in C language. These problems generally require the knowledge of loops and if-else statements.
+
+
+pattern programs in c
 Programs to Print Patterns in C
 1. Right Half Pyramid Pattern in C
 The right-half pyramid is nothing but a right-angle triangle whose hypotenuse is in the right direction. We can print the right half pyramid pattern using numbers, alphabets, or any other character like a star (*).
