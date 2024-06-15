@@ -1,0 +1,6 @@
+Programs to Print Patterns in C
+1. Right Half Pyramid Pattern in C
+The right-half pyramid is nothing but a right-angle triangle whose hypotenuse is in the right direction. We can print the right half pyramid pattern using numbers, alphabets, or any other character like a star (*).
+
+Example:
+
